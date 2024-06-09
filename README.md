@@ -15,4 +15,5 @@
 - 7.選擇`mp3`或`mp4`檔案
 - 8.**等待您的檔案!!**
 ## 下載
-- [v1.0.0](https://github.com/skywars-noob/Youtube-download-tool/raw/main/YT%20Downloads%20Tools%20v1.0.0.zip)    2024/5/30
+- [v1.1.2]()    2024/6/9 (改用多線程執行下載程序，並增加報錯功能)
+- [v1.0.0](https://github.com/skywars-noob/Youtube-download-tool/raw/main/YT%20Downloads%20Tools%20v1.0.0.zip)    2024/5/30 (初始版本)
