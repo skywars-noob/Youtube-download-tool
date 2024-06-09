@@ -6,7 +6,7 @@
 - 將YouTube上的影片轉為mp3檔案,mp4檔案
 - 無限制
 ## 如何使用
-- 1.下載至您的裝置([這裡下載](https://github.com/skywars-noob/Youtube-download-tool/blob/main/README.md#%E4%B8%8B%E8%BC%89))
+- 1.下載至您的裝置([下載最新版本]())
 - 2.解壓縮
 - 3.開啟資料夾，並點開`YouTube Downloads Tool.exe`
 - 4.將您在YouTube上找到的`影片連結`複製到`連結輸入框`
